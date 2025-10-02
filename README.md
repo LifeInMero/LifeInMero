@@ -1,5 +1,5 @@
 ## Welcome to My Quiet Café <img src="https://cdn.discordapp.com/emojis/1379545294672498790.webp?size=96&animated=true" alt="Emoji" width="30"/>
-My name is **Skyvlar** (Aka OldCitizen) <br />
+My name is **Skyvlar** (Aka AngelSkyvlar) <br />
 I'm an **AI & Software Engineer**, **Artist**, **Gamer**, **VTuber** (Not at all) and also **Photographer** & **Developer** too! <img src="https://i.imgur.com/cgRIRHM.png" alt="Emoji" width="20"/>
 
 
