@@ -9,7 +9,7 @@ I Play Some Games too like: **Minecraft**, **FPS Shooter** Games, **Parkour** Ga
 I'm a Developer of **Node.js**, **Web/HTML**, **Python**, **C++/CSS**, **Typescript** and more!<br />
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/1024297429127933952?theme=light&idleMessage=Just%20Chilling.&showDisplayName=true&hideStatus=true)](https://discord.com/users/1024297429127933952)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1024297429127933952?theme=dark&idleMessage=Just%20Chilling.&showDisplayName=true&hideStatus=false)](https://discord.com/users/1024297429127933952)
 
 ## 
 ㅤㅤㅤ🌿 *I lay on the grass, gazing at the sky and the stars, the place where I can clear my mind, and I said:* ✨
