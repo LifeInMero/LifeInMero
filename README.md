@@ -31,6 +31,5 @@ I'm a Developer of **Node.js**, **Web/HTML**, **Python**, **C++/CSS**, **Typescr
 ㅤㅤ*that peace exists in every corner,* <br />
 ㅤㅤ*and that moments of calm* <br />
 ㅤㅤ*are the pearls we weave from our silence.* <br />
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ *-  Meronave*
 
 ## That's All <img src="https://i.imgur.com/vJzh37p.gif" alt="Eating" width="25"/>
