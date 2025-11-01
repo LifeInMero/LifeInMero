@@ -34,4 +34,4 @@ jobs:
           git commit -m "Update activity feed" || echo "No changes to commit"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.MEROBOT_TOKEN }}
+          MEROBOT_TOKEN: ${{ secrets.MEROBOT_TOKEN }}
