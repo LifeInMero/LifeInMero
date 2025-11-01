@@ -1,4 +1,4 @@
-# Hi, I'm Mero <img src="https://cdn.discordapp.com/emojis/1379545294672498790.webp?size=96&animated=true" alt="Emoji" width="25"/>
+# Hi, It's Mero <img src="https://cdn.discordapp.com/emojis/1379545294672498790.webp?size=96&animated=true" alt="Emoji" width="25"/>
 A **Infosec Engineer**, **Artist**, **Gamer**, **Photographer** and **Developer** <br /> 
 
 ## Contact Me:
