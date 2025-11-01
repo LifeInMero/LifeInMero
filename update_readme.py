@@ -1,8 +1,12 @@
-from github import Github
+from github import Github, Auth
 import os
 
 token = os.getenv("MEROBOT_TOKEN")
-g = Github(token)
+if not token:
+    raise ValueError("GitHub token not found. Please set MEROBOT_TOKEN in your secrets.")
+
+
+g = Github(auth=Auth.Token(token))
 
 username = "Meronave"
 user = g.get_user(username)
@@ -30,7 +34,7 @@ for event in events:
         img = emoji_images["PushEvent"]
         commits = event.payload['commits']
         for commit in commits:
-            message = commit['message'].split("\n")[0]
+            message = commit['message'].split("\n")[0] 
             lines.append(f"[{date}] {img} {message} {event.repo.name}")
 
     elif event.type == "IssuesEvent" and event.payload['action'] == 'opened':
