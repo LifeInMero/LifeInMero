@@ -10,9 +10,9 @@ user = g.get_user(username)
 readme_path = "README.md"
 
 emoji_images = {
-    "ForkEvent": '<img src="assets/fork.png" width="32" height="32" />',
-    "PushEvent": '<img src="assets/commit.png" width="32" height="32" />',
-    "IssuesEvent": '<img src="assets/issue.png" width="32" height="32" />'
+    "ForkEvent": '<img src="assets/icon.png" width="32" height="32" />',
+    "PushEvent": '<img src="assets/icon.png" width="32" height="32" />',
+    "IssuesEvent": '<img src="assets/icon.png" width="32" height="32" />'
 }
 
 events = user.get_events()[:20]
