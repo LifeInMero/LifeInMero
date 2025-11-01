@@ -11,6 +11,7 @@ A **Infosec Engineer**, **Artist**, **Gamer**, **Photographer** and **Developer*
 ## Discord:
 <a href="https://discord.com/users/1024297429127933952"><img src="https://lanyard.cnrad.dev/api/1024297429127933952?showDisplayName=true" /></a>
 
+## Recent Activity:
 <!--START_ACTIVITY-->
 
 <!--END_ACTIVITY-->
