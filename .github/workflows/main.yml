@@ -24,7 +24,7 @@ jobs:
       - name: Run update_readme script
         env:
           MEROBOT_TOKEN: ${{ secrets.MEROBOT_TOKEN }}
-        run: python scripts/update_readme.py
+        run: python update_readme.py
 
       - name: Some changes commited in (README.md)
         run: |
