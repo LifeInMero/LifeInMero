@@ -1,0 +1,37 @@
+name: MeroBot
+
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+  workflow_dispatch: 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: pip install PyGithub
+
+      - name: Run update_readme script
+        env:
+          MEROBOT_TOKEN: ${{ secrets.MEROBOT_TOKEN }}
+        run: python scripts/update_readme.py
+
+      - name: Some changes commited in (README.md)
+        run: |
+          git config --global user.name "MeroBot"
+          git config --global user.email "merobot@example.com"
+          git add README.md
+          git commit -m "Update activity feed" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.MEROBOT_TOKEN }}
