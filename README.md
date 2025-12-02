@@ -1,12 +1,18 @@
 # Hi, It's Yoichi <img src="https://cdn.discordapp.com/emojis/1379545294672498790.webp?size=96&animated=true" alt="Emoji" width="25"/>
 A **Security Engineer**, **Artist**, **Gamer**, **Photographer** and **Developer** from Algeria, Muslim too. <br /> 
 
-## Skilled in:
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> </p>
 
-## Stats:
-![Meronave's Stats](https://github-readme-stats.vercel.app/api?username=Meronave&theme=tokyonight&show_icons=true&hide_border=false&count_private=false) <br />
-![Meronave's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meronave&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) <br />
+## 📘 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/7oichi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@7oichi) 
 
-## Discord:
-<a href="https://discord.com/users/1024297429127933952"><img src="https://lanyard.cnrad.dev/api/1024297429127933952?showDisplayName=true" /></a>
+## 📘 Developer in:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 📘 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YoichiMt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YoichiMt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoichiMt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 📘 Discord:
+<a href="https://discord.com/users/1024297429127933952"><img src="https://lanyard.cnrad.dev/api/1024297429127933952?hideActivity=true&showDisplayName=true" /></a>
+
+### Ty for reading this <3
